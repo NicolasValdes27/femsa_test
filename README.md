@@ -5,7 +5,7 @@
 ## Instructions for running the project
 
 
-- Copy the repository to your computer
+- Clone the repository
 - Open in console the folder path
 - Use the command: 
 ```bash
